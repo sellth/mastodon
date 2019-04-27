@@ -35,7 +35,7 @@ de:
         setting_noindex: Betrifft dein öffentliches Profil und deine Beiträge
         setting_show_application: Die Anwendung, die du zum Schreiben von Beiträgen benutzt wird in der detaillierten Ansicht deiner Beiträge angezeigt
         setting_theme: Wirkt sich darauf aus, wie Mastodon aussieht, egal auf welchem Gerät du eingeloggt bist.
-        username: Dein Benutzer:innen-Name wird auf %{domain} nur einmal vorkommen
+        username: Dein Benutzername wird auf %{domain} nur einmal vorkommen
         whole_word: Wenn das Schlagwort oder die Phrase nur Buchstaben und Zahlen enthält, wird es nur angewendet, wenn es dem ganzen Wort entspricht
       featured_tag:
         name: 'Du möchtest vielleicht einen von diesen benutzen:'
